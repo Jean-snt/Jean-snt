@@ -10,10 +10,9 @@
 
 ✨ **Sobre mí**
 
-Soy **Desarrollador de Software** con una sólida trayectoria en el diseño lógico de sistemas y la estructuración de arquitecturas escalables. Cuento con experiencia directa en el manejo, seguimiento y validación de proyectos tecnológicos, habiendo colaborado estrechamente en roles de asistencia de gerencia para asegurar la viabilidad técnica y la calidad de cada entrega.
+Soy un profesional del desarrollo de software con una gran experiencia creando sistemas lógicos y diseñando arquitecturas que pueden crecer fácilmente. He trabajado directamente en la gestión, supervisión y verificación de proyectos tecnológicos. Mi labor ha sido apoyar a la gerencia para asegurar que cada proyecto sea técnicamente factible y de alta calidad.
 
-Mi enfoque combina la construcción de software robusto, la seguridad informática y la gestión operativa. Me encargo de llevar las ideas desde la lógica inicial hasta un entorno de producción real, garantizando la optimización de procesos y la confianza digital para marcas y negocios.
-
+Mi trabajo se enfoca en crear software confiable, proteger la información y administrar las operaciones. Me encargo de transformar las ideas iniciales en productos funcionales y listos para el público, asegurando que los procesos sean eficientes y que las marcas y empresas tengan seguridad digital.
 ---
 
 🚀 **Lo que hago & Servicios**
