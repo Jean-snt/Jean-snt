@@ -69,9 +69,10 @@ Mi trabajo se enfoca en crear software confiable, proteger la información y adm
 📊 **Estadísticas de GitHub (Animación de Rendimiento)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_EXACTO&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_EXACTO&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="190px" />
 </p>
+
 
 ---
 
