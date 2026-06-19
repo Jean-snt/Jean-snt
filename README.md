@@ -1,85 +1,157 @@
-# ¡Hola! Soy Junior Sulca Mendez 💻
+# 👨‍💻 Junior Giancarlo Sulca Méndez
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=90&lines=Desarrollador+de+Software;Backend+%26+Weab+Developer;Manejo+%26+Validación+de+Proyectos;Soluciones+Inteligentes+con+IA" alt="Typing SVG" />
+
+### Backend Developer • Web Developer • AI Solutions Engineer
+
+Desarrollo de software | Arquitectura Backend | Inteligencia Artificial | Cloud & DevOps
+
+</p>
+
+<p align="center">
+  <a href="TU_PORTAFOLIO">
+    <img src="https://img.shields.io/badge/🌐%20Portafolio-Visitar%20Sitio-0F172A?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/junior-sulca-mendez-980366219">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:Juniorgiancarlo2743@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-✨ **Sobre mí**
+## 🚀 Perfil Profesional
 
-Soy un profesional comprometido, responsable y proactivo, con sólidas habilidades para el trabajo en equipo y para la resolución de problemas técnicos complejos. Me adapto con facilidad a nuevos retos, aprendo constantemente nuevas tecnologías y mantengo un enfoque claro en la calidad de los entregables y el cumplimiento de objetivos.
+Desarrollador de Software especializado en desarrollo backend, aplicaciones web, automatización de procesos e integración de soluciones basadas en Inteligencia Artificial.
 
-Cuento con proyectos propios y en proceso, orientados a consolidar mi experiencia y a desarrollar soluciones con valor real. Además, tengo 1 año de experiencia como desarrollador en empresas enfocadas en el desarrollo web, donde adquirí experiencia trabajando en proyectos, coordinando con equipos y participando en actividades para asegurar la mejora y el correcto funcionamiento de las soluciones implementadas.
+Experiencia participando en proyectos empresariales, despliegue de plataformas digitales, desarrollo de APIs escalables y construcción de arquitecturas modernas utilizando Python, Node.js y tecnologías Cloud.
 
-Mi objetivo es aportar valor real en el desarrollo de soluciones de software innovadoras, seguir evolucionando profesionalmente y contribuir con resultados sólidos dentro del sector tecnológico.
+Interés permanente en arquitecturas orientadas a microservicios, agentes inteligentes, automatización empresarial y plataformas de alto rendimiento.
+
+### Áreas de Especialización
+
+* Desarrollo Backend
+* Arquitectura de Software
+* Inteligencia Artificial Aplicada
+* Cloud Computing
+* DevOps
+* Desarrollo Web
+* Gestión Técnica de Proyectos
+
 ---
 
-🚀 **Lo que hago & Servicios**
+## 🌐 Portafolio Profesional
 
-* 🛠️ **Desarrollo Backend & Web:** Creación de plataformas virtuales completas, APIs robustas y sistemas basados en arquitecturas limpias.
-* 📋 **Manejo e Infraestructura de Proyectos:** Seguimiento exhaustivo, validación de requerimientos y control de calidad en cada fase del desarrollo.
-* 🌐 **Despliegues y DevOps:** Especialista en puesta en producción con más de 5 despliegues exitosos en entornos de Hostinger y servicios en la nube.
-* 🔒 **Seguridad y Auditoría:** Análisis básico de vulnerabilidades y pentesting mediante el uso estratégico de Kali Linux para proteger las aplicaciones.
-* 📊 **Gestión de Datos:** Análisis y control de datos operativos con manejo avanzado y experiencia en Microsoft Excel.
+### 🔗 Acceso Directo
+
+👉 **TU_URL_PORTAFOLIO**
+
+En mi portafolio encontrarás:
+
+* Proyectos empresariales
+* Sistemas web
+* APIs y microservicios
+* Soluciones con IA
+* Casos de estudio
+* Despliegues productivos
+* Arquitecturas implementadas
 
 ---
 
-🧰 **Stack & Tecnologías**
+## 🧠 Tecnologías Principales
 
-### ⚙️ Backend & Base de Datos
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
 </p>
 
-### 🖥️ Frontend & CMS
+### Inteligencia Artificial
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Tauri-FFC107?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
 </p>
 
-### 🔧 Cloud, Seguridad & Herramientas
+### Cloud & DevOps
+
 <p>
-  <img src="https://img.shields.io/badge/Hostinger-673AB7?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hostinger-673AB7?style=for-the-badge"/>
 </p>
 
 ---
 
-🌐 **Proyectos Destacados**
+## 📌 Experiencia Destacada
 
-* 🔹 **Pawllu CRM:** Gestión y automatización avanzada de oportunidades y clientes bajo el framework Jmix.
-* 🔹 **Cuestom:** Plataforma de encuestas escalable con migración estructurada a PostgreSQL.
-* 🔹 **Sistema de Gestión de Accesos (EAC):** Herramienta de escritorio ágil desarrollada con Tauri y Rust.
+### Desarrollo Backend e IA
+
+* Diseño de APIs empresariales.
+* Arquitecturas basadas en Python.
+* Implementación de MCP.
+* Desarrollo de agentes inteligentes con LangGraph y LangChain.
+* Integración de servicios de IA.
+
+### Infraestructura y Despliegue
+
+* Despliegues productivos en Hostinger.
+* Administración de servidores Hetzner.
+* Containerización con Docker.
+* Integración continua mediante Git.
+
+### Gestión Técnica
+
+* Seguimiento de proyectos.
+* Validación de requerimientos.
+* Coordinación con equipos multidisciplinarios.
+* Optimización de procesos tecnológicos.
 
 ---
 
-📊 **Estadísticas de GitHub (Animación de Rendimiento)**
+## 🌟 Proyectos Destacados
+
+### Pawllu CRM
+
+Plataforma CRM empresarial orientada a la gestión y automatización de oportunidades comerciales.
+
+### Cuestom
+
+Sistema de encuestas escalable con migración estructurada a PostgreSQL.
+
+### EAC (Enterprise Access Control)
+
+Sistema de control de accesos desarrollado con Tauri y Rust para administración de permisos y usuarios.
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_EXACTO&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_EXACTO&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
 
 ---
 
-🤝 **Conectemos**
+## 🤝 Contacto
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/junior-sulca-mendez-980366219?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="
+📧 [Juniorgiancarlo2743@gmail.com](mailto:Juniorgiancarlo2743@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/junior-sulca-mendez-980366219
+
+🌐 Portafolio:
+TU_URL_PORTAFOLIO
+
+📍 Lima, Perú
