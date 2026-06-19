@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=90&lines=Desarrollador+de+Software;Backend+%26+Web+Developer;Manejo+%26+Validación+de+Proyectos;Soluciones+Inteligentes+con+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=90&lines=Desarrollador+de+Software;Backend+%26+Weab+Developer;Manejo+%26+Validación+de+Proyectos;Soluciones+Inteligentes+con+IA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,9 +10,11 @@
 
 ✨ **Sobre mí**
 
-Soy un profesional del desarrollo de software con una gran experiencia creando sistemas lógicos y diseñando arquitecturas que pueden crecer fácilmente. He trabajado directamente en la gestión, supervisión y verificación de proyectos tecnológicos. Mi labor ha sido apoyar a la gerencia para asegurar que cada proyecto sea técnicamente factible y de alta calidad.
+Soy un profesional comprometido, responsable y proactivo, con sólidas habilidades para el trabajo en equipo y para la resolución de problemas técnicos complejos. Me adapto con facilidad a nuevos retos, aprendo constantemente nuevas tecnologías y mantengo un enfoque claro en la calidad de los entregables y el cumplimiento de objetivos.
 
-Mi trabajo se enfoca en crear software confiable, proteger la información y administrar las operaciones. Me encargo de transformar las ideas iniciales en productos funcionales y listos para el público, asegurando que los procesos sean eficientes y que las marcas y empresas tengan seguridad digital.
+Cuento con proyectos propios y en proceso, orientados a consolidar mi experiencia y a desarrollar soluciones con valor real. Además, tengo 1 año de experiencia como desarrollador en empresas enfocadas en el desarrollo web, donde adquirí experiencia trabajando en proyectos, coordinando con equipos y participando en actividades para asegurar la mejora y el correcto funcionamiento de las soluciones implementadas.
+
+Mi objetivo es aportar valor real en el desarrollo de soluciones de software innovadoras, seguir evolucionando profesionalmente y contribuir con resultados sólidos dentro del sector tecnológico.
 ---
 
 🚀 **Lo que hago & Servicios**
