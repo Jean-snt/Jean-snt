@@ -40,7 +40,7 @@ Mi objetivo es aportar valor real en el desarrollo de soluciones de software inn
 
 ### 🚀 Explora mis proyectos, experiencia y casos de éxito
 
-🔗 **TU_URL_PORTAFOLIO**
+🔗 **https://juniorsulca.netlify.app/**
 
 </p>
 
@@ -142,8 +142,8 @@ Herramienta de escritorio ágil desarrollada con Tauri y Rust.
 
 <p align="center">
 
-<a href="TU_PORTAFOLIO">
-🌐 Portafolio Profesional
+<a href="https://juniorsulca.netlify.app/">
+🌐 Mi Portafolio
 </a>
 
   •  
