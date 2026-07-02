@@ -1,7 +1,7 @@
 # Junior Giancarlo Sulca Mendez
 
 <div align="center">
-  <!-- Título e Identificadores Profesionales Estables -->
+  <!-- Título Profesional Estructurado -->
   <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-FULL%20STACK%20DEVELOPER-004e92?style=for-the-badge&labelColor=000428" alt="Professional Title" width="100%" />
 
   <p align="center">
@@ -20,66 +20,76 @@
 
 ### 👤 About Me
 
-Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y seguros. Con experiencia en el ámbito profesional liderando arquitecturas modulares, integraciones críticas y aplicando buenas prácticas de diseño de software en entornos de producción. Apasionado por la convergencia entre la **Inteligencia Artificial** y las auditorías de **Seguridad Informática**.
+Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y seguros. Con experiencia práctica en entornos profesionales liderando arquitecturas modulares, integraciones transaccionales complejas y aplicando buenas prácticas de ingeniería de software. Apasionado por el despliegue de soluciones con **Inteligencia Artificial** y auditorías de **Seguridad Informática**.
 
 - **Enfoque de Carrera:** Arquitectura de Software, Inteligencia Artificial, Ciberseguridad, FinTech y Sistemas Escalables.
-- **Filosofía de Trabajo:** Escribir código limpio, modular, eficiente y auditable desde el primer día.
+- **Filosofía de Trabajo:** Escribir código limpio, modular, desacoplado y auditable desde el diseño inicial.
 
 ---
 
 ### 🚀 Currently Working On
 
 *   **CUESTOM:** Plataforma avanzada de encuestas interactivas.
-    *   Diseño e implementación de una **arquitectura modular y altamente escalable** respaldada por PostgreSQL.
-    *   Desarrollo de un **sistema de pagos e integraciones financieras en tiempo real**.
-    *   Refactorización avanzada de flujos, control de concurrencia y analítica integrada.
+    *   Diseño de una **arquitectura modular escalable** respaldada en PostgreSQL.
+    *   Implementación de flujos financieros y **procesamiento transaccional en tiempo real**.
+    *   Refactorización continua de lógica de negocio y optimización de concurrencia.
 
 ---
 
-### 🧠 Currently Learning & Deepening
+### 🧠 Technical Specialization & Deepening
 
-| 🤖 AI & Cloud Architecture | 🛡️ Cybersecurity & Pentesting | 💳 Fintech & Business |
+| 🤖 AI & Cloud Architecture | 🛡️ Cybersecurity & Pentesting | 💳 Fintech & Systems |
 | :--- | :--- | :--- |
 | Artificial Intelligence & ML | Kali Linux & Nmap Infrastructure | Payment Gateways Core |
-| AWS Services ecosystem | Wireshark & Burp Suite Auditing | Real-Time Transactions |
+| AWS Services Ecosystem | Wireshark & Burp Suite Auditing | Real-Time Transactions |
 | Scalable Cloud Architecture | Metasploit & OWASP Top 10 | Digital Market Models |
 | Microservices Patterns | Vulnerability Assessment | Monetization Frameworks |
 
 ---
 
-### 🛠️ Tech Stack & Infrastructure
+### 🛠️ Tech Stack & Ecosystem
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Databases</strong></td>
-    <td align="center" width="25%"><strong>Cloud & DevOps</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Python / Django<br>
-      • Java / Spring Boot<br>
-      • Node.js
-    </td>
-    <td valign="top">
-      • React<br>
-      • JavaScript<br>
-      • HTML5 / CSS3
-    </td>
-    <td valign="top">
-      • PostgreSQL<br>
-      • MySQL
-    </td>
-    <td valign="top">
-      • AWS Services<br>
-      • Azure Cloud<br>
-      • Docker Containers<br>
-      • Linux Frameworks<br>
-      • Git & GitHub Actions
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  **Backend**  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+  **Frontend**  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+  **Databases**  
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+  **Infrastructure & DevOps**  
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📁 Featured Projects
+
+#### 🛠️ [CUESTOM](https://github.com/Jean-snt) — Interactive Survey Platform
+*   **Descripción:** Sistema robusto para el despliegue de encuestas con alto tráfico concurrente.
+*   **Stack:** Python, Django, PostgreSQL, Integración de pasarelas de pago.
+*   **Logro Técnico:** Migración e implementación de un modelo de datos optimizado para transacciones críticas y arquitectura desacoplada.
+
+#### 🛡️ [Security & Infrastructure Labs](https://github.com/Jean-snt) — Pentesting & Cloud Hardening
+*   **Descripción:** Entornos controlados y laboratorios técnicos enfocados en análisis de vulnerabilidades y despliegue seguro en la nube.
+*   **Tools:** Kali Linux, Nmap, Burp Suite, AWS IAM & Security Policies.
+*   **Logro Técnico:** Modelado de amenazas bajo el estándar OWASP Top 10 para mitigar vectores de ataque en aplicaciones web.
 
 ---
 
@@ -95,7 +105,6 @@ Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y s
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <!-- Animación de la serpiente basada en la rama de salida automatizada -->
   <img src="https://raw.githubusercontent.com/Jean-snt/Jean-snt/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
 
@@ -103,9 +112,9 @@ Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y s
 
 ### 🎯 Goals 2026
 
-*   [ ] Desplegar e iterar arquitecturas complejas y seguras utilizando servicios de AWS.
-*   [ ] Consolidar plataformas transaccionales optimizadas para soportar alta concurrencia.
-*   [ ] Expandir conocimientos prácticos en Ethical Hacking y auditorías avanzadas de sistemas.
+*   [ ] Diseñar e implementar arquitecturas seguras y serverless sobre infraestructura de AWS.
+*   [ ] Optimizar backends corporativos para el manejo eficiente de alta concurrencia transaccional.
+*   [ ] Contribuir activamente a proyectos de código abierto enfocados en herramientas de ciberseguridad.
 
 ---
 
