@@ -86,9 +86,8 @@ Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y s
 ### 📊 GitHub Analytics & Developer Metrics
 
 <div align="center">
-  <!-- Alternativa robusta utilizando métricas integradas y limpias sin caídas -->
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jean-snt's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jean-snt's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" width="48%" />
 </div>
 
 ---
