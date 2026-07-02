@@ -1,10 +1,11 @@
 # Junior Giancarlo Sulca Mendez
 
 <div align="center">
-  <!-- Banner Top Dinámico -->
-  <img src="https://capsule-render.vercel.app/canvas/digital?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Junior%20Sulca&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" alt="Banner" />
+  <!-- Título e Identificadores Profesionales Estables -->
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-FULL%20STACK%20DEVELOPER-004e92?style=for-the-badge&labelColor=000428" alt="Professional Title" width="100%" />
 
   <p align="center">
+    <br/>
     <strong>Software Engineer | Full Stack Developer | AI & Cybersecurity Enthusiast</strong>
   </p>
 
@@ -85,18 +86,9 @@ Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y s
 ### 📊 GitHub Analytics & Developer Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <!-- Tarjeta de Estadísticas General -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jean-snt's GitHub stats" height="180px"/>
-      </td>
-      <td align="center" valign="top">
-        <!-- Lenguajes más utilizados -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="180px"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Alternativa robusta utilizando métricas integradas y limpias sin caídas -->
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jean-snt's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" width="48%" />
 </div>
 
 ---
