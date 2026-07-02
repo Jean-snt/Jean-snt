@@ -11,6 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/Jean-snt"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://juniorsulca.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-004e92?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
     <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge" alt="Open to Work" />
     <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge" alt="English Intermediate" />
   </p>
@@ -119,6 +120,6 @@ Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y s
 ---
 
 <div align="center">
-  <p>📬 <em>¿Interesado en colaborar o conectar? ¡Explora mis repositorios o contáctame directamente a través de mi perfil!</em></p>
+  <p>📬 <em>¿Interesado en colaborar o conectar? ¡Explora mi <a href="https://juniorsulca.netlify.app/">Portafolio Personal</a> o contáctame directamente a través de mi perfil!</em></p>
   <img src="https://komarev.com/ghpvc/?username=Jean-snt&color=004e92&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
