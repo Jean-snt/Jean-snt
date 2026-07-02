@@ -1,135 +1,124 @@
-<h1 align="center">
-  Hi 👋, I'm Junior Sulca Mendez
-</h1>
+# Junior Giancarlo Sulca Mendez
 
-<h3 align="center">
-Backend Developer • Software Engineer • AI Solutions Builder
-</h3>
+<div align="center">
+  <!-- Banner Top Dinámico -->
+  <img src="https://capsule-render.vercel.app/canvas/digital?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Junior%20Sulca&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" alt="Banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Software+Engineer;Cloud+%26+DevOps;AI+Solutions+Builder" />
-</p>
+  <p align="center">
+    <strong>Software Engineer | Full Stack Developer | AI & Cybersecurity Enthusiast</strong>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jean-snt&label=Profile%20Views&color=38bdf8&style=for-the-badge"/>
-
-  <a href="https://juniorsulca.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/junior-sulca-mendez-980366219">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:Juniorgiancarlo2743@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/Jean-snt"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge" alt="English Intermediate" />
+  </p>
+</div>
 
 ---
 
-## 💫 About Me
+### 👤 About Me
 
-- 🔭 Backend Developer with experience building scalable software solutions.
-- 🌱 Learning Software Architecture, DevOps and Artificial Intelligence.
-- 🚀 Specialized in Django, Spring Boot, React and Cloud Deployments.
-- 🤝 Interested in automation and intelligent systems.
-- ⚡ Passionate about creating software with real impact.
+Software Engineer enfocado en el desarrollo de sistemas escalables, robustos y seguros. Con experiencia en el ámbito profesional liderando arquitecturas modulares, integraciones críticas y aplicando buenas prácticas de diseño de software en entornos de producción. Apasionado por la convergencia entre la **Inteligencia Artificial** y las auditorías de **Seguridad Informática**.
 
----
-
-## 🛠 Services
-
-- ⚙ Backend Development
-- 🌐 Full Stack Web Solutions
-- ☁ Cloud Deployments
-- 🔒 Security & Auditing
-- 📊 Data Management
-- 🤖 AI Automation
+- **Enfoque de Carrera:** Arquitectura de Software, Inteligencia Artificial, Ciberseguridad, FinTech y Sistemas Escalables.
+- **Filosofía de Trabajo:** Escribir código limpio, modular, eficiente y auditable desde el primer día.
 
 ---
 
-## 🧰 Tech Stack
+### 🚀 Currently Working On
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,django,spring,nodejs,react,mysql,postgres,docker,aws,azure,git,linux"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Hostinger-673AB7?style=for-the-badge&logo=hostinger&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+*   **CUESTOM:** Plataforma avanzada de encuestas interactivas.
+    *   Diseño e implementación de una **arquitectura modular y altamente escalable** respaldada por PostgreSQL.
+    *   Desarrollo de un **sistema de pagos e integraciones financieras en tiempo real**.
+    *   Refactorización avanzada de flujos, control de concurrencia y analítica integrada.
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 Currently Learning & Deepening
 
-### 🔹 Pawllu CRM
-Advanced opportunity and customer management platform built with Jmix.
-
-### 🔹 Cuestom
-Scalable survey platform migrated to PostgreSQL.
-
-### 🔹 EAC Access Control System
-Desktop application developed with Tauri and Rust.
+| 🤖 AI & Cloud Architecture | 🛡️ Cybersecurity & Pentesting | 💳 Fintech & Business |
+| :--- | :--- | :--- |
+| Artificial Intelligence & ML | Kali Linux & Nmap Infrastructure | Payment Gateways Core |
+| AWS Services ecosystem | Wireshark & Burp Suite Auditing | Real-Time Transactions |
+| Scalable Cloud Architecture | Metasploit & OWASP Top 10 | Digital Market Models |
+| Microservices Patterns | Vulnerability Assessment | Monetization Frameworks |
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Tech Stack & Infrastructure
 
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Jean-snt&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Jean-snt&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://juniorsulca.netlify.app">
-🌐 Portfolio
-</a>
-•
-<a href="https://www.linkedin.com/in/junior-sulca-mendez-980366219">
-💼 LinkedIn
-</a>
-•
-<a href="mailto:Juniorgiancarlo2743@gmail.com">
-📧 Email
-</a>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Databases</strong></td>
+    <td align="center" width="25%"><strong>Cloud & DevOps</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Python / Django<br>
+      • Java / Spring Boot<br>
+      • Node.js
+    </td>
+    <td valign="top">
+      • React<br>
+      • JavaScript<br>
+      • HTML5 / CSS3
+    </td>
+    <td valign="top">
+      • PostgreSQL<br>
+      • MySQL
+    </td>
+    <td valign="top">
+      • AWS Services<br>
+      • Azure Cloud<br>
+      • Docker Containers<br>
+      • Linux Frameworks<br>
+      • Git & GitHub Actions
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-💻 Building real-world software, automation and AI-powered solutions.
-</p>
+### 📊 GitHub Analytics & Developer Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <!-- Tarjeta de Estadísticas General -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Jean-snt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jean-snt's GitHub stats" height="180px"/>
+      </td>
+      <td align="center" valign="top">
+        <!-- Lenguajes más utilizados -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-snt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="180px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <!-- Animación de la serpiente basada en la rama de salida automatizada -->
+  <img src="https://raw.githubusercontent.com/Jean-snt/Jean-snt/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</div>
+
+---
+
+### 🎯 Goals 2026
+
+*   [ ] Desplegar e iterar arquitecturas complejas y seguras utilizando servicios de AWS.
+*   [ ] Consolidar plataformas transaccionales optimizadas para soportar alta concurrencia.
+*   [ ] Expandir conocimientos prácticos en Ethical Hacking y auditorías avanzadas de sistemas.
+
+---
+
+<div align="center">
+  <p>📬 <em>¿Interesado en colaborar o conectar? ¡Explora mis repositorios o contáctame directamente a través de mi perfil!</em></p>
+  <img src="https://komarev.com/ghpvc/?username=Jean-snt&color=004e92&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
